@@ -1,1 +1,2 @@
-# Hackerrank-solutions
+# HackerRank-solutions
+<hr>
