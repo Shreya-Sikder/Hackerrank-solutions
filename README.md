@@ -20,6 +20,7 @@ Here, I’ve documented my progress and solutions to challenges across multiple 
 - **C++ Challenges**
 - **Problem Solving Track**
 
--**SQL**
+###**SQL:**
+-[Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) Revising the Select Query I [Solution]()
 
 
